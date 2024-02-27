@@ -1,0 +1,16 @@
+.navbar {
+    height: 80px;
+    /* Set the height of the navbar */
+}
+
+.navbar-brand {
+    font-size: 24px;
+    /* Set the font size of the brand/logo */
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+    /* Set the font size of the navbar links */
+    padding: 20px;
+    /* Increase padding to adjust the size of the clickable area */
+}
